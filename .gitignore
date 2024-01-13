@@ -15,8 +15,7 @@ public
 index.html
 .eslintrc.cjs
 package-lock.json
-package.json
-vite.config.js
+
 
 # Editor directories and files
 .vscode/*
